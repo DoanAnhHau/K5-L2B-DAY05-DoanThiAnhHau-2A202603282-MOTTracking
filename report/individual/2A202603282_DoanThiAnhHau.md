@@ -68,6 +68,7 @@ Người bị che: `P1`
 ![Giữa đoạn che, thấy cờ trên panel object](images/che_2_giua.png)
 ![Sau khi hiện lại, cùng ID](images/che_3_sau.png)
 
+
 ## 4. Tự review ID (CP3)
 
 Lượt 1 theo người (đi ngược từ frame 149 về 0 trên CVAT), lượt 2 theo cảnh (nhảy 10 frame). Ít nhất 3 dòng; không có lỗi thì ghi một dòng "đã kiểm hai lượt, không lỗi".
